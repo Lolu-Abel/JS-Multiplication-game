@@ -1,2 +1,2 @@
 # JS-Multiplication-game
-Basic multiplication using JS to check speed of human multiplications.
+Basic multiplication game to check how many multiplication questions can be answered by users within a 60-second timeframe 
